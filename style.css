@@ -5,11 +5,19 @@ body {
 .post {
   background: #fff;
   padding: 15px;
-  border: 3px solid blue;
+  border: 2px solid #505050;
+  border-radius: 5px;
   margin: 15px;
+  margin: 0;
+  margin-bottom: 15px;
 }
 
 .post_line {
   margin: 0;
-  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.imagem {
+  width: 100%;
+  border-radius: 5px;
 }
